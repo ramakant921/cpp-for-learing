@@ -1,1 +1,1 @@
-# c-for-learing
+A code repo while learning C++.
